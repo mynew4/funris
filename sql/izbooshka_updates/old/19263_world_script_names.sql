@@ -1,0 +1,2 @@
+UPDATE `creature_template` SET `ScriptName` = 'npc_acherus_teleport' WHERE `entry` IN ('29580', '29581', '29588', '29589');
+UPDATE `creature_template` SET `ScriptName` = 'npc_scourge_sky_darkener' WHERE `entry`='28642';
