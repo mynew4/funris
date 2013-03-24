@@ -33,7 +33,7 @@ set(scripts_STAT_SRCS
   Custom/custom_misc.cpp
   Custom/npc_trans.cpp
   Custom/gurubashi.cpp
-  Custom/hunter.cpp
+
  
 
 )

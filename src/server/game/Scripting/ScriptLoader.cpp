@@ -41,7 +41,6 @@ void AddSC_npc_other();
 void AddSC_npc_premium_master();
 void AddSC_System_Censure();
 void AddSC_mob_gurubashi_ressurect();
-void AddSC_BountyHunter();
 void AddSC_custom_misc();
 
 // exaile temple
@@ -247,7 +246,7 @@ void AddCustomScripts()
     AddSC_transmogrify_script();
     AddSC_trans();
     AddSC_mob_gurubashi_ressurect();
-    AddSC_BountyHunter();
+  
  
 
    
