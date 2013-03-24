@@ -28,11 +28,11 @@ public:
             killed->ResurrectPlayer(40.0f, true);
 
             if (Aura * aur = killed->GetAura(15007))
-                aur->SetDuration(1*MINUTE*IN_MILLISECONDS); // 1 Минута Слабость после воскрешения
+                aur->SetDuration(0.3*MINUTE*IN_MILLISECONDS); // 1 Минута Слабость после воскрешения
 
             killed->CastSpell(killed, 13874, true);
             if (Aura * aur = killed->GetAura(13874))
-                aur->SetDuration(1*MINUTE*IN_MILLISECONDS); // 1 Минута Божественный щит
+                aur->SetDuration(0.3*MINUTE*IN_MILLISECONDS); // 1 Минута Божественный щит
 
             uint32 rnd = urand(0,1);
             if (killed->GetTeam() == ALLIANCE)
