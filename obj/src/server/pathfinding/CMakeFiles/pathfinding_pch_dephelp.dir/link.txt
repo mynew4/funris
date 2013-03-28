@@ -1,2 +1,0 @@
-/usr/bin/ar cr libpathfinding_pch_dephelp.a  CMakeFiles/pathfinding_pch_dephelp.dir/pathfinding_pch_dephelp.cxx.o
-/usr/bin/ranlib libpathfinding_pch_dephelp.a

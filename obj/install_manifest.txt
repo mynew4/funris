@@ -1,6 +1,0 @@
-/home/fun/pvp39/bin/authserver
-/home/fun/pvp39/etc/authserver.conf.dist
-/home/fun/pvp39/bin/worldserver
-/home/fun/pvp39/etc/worldserver.conf.dist
-/home/fun/pvp39/bin/innormative_words.txt
-/home/fun/pvp39/bin/letter_analogs.txt
